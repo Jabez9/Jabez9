@@ -10,7 +10,7 @@ I build practical software products, APIs, and web applications, with an interes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jabezhuya1/)
 [![GitHub](https://img.shields.io/badge/GitHub-Jabez9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jabez9)
 
-📍 Nairobi, Kenya
+📍 Nairobi, Kenya | 🌍 Available for Remote Work Worldwide
 
 </div>
 
