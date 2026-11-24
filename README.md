@@ -6,8 +6,8 @@
 
 I build practical software products, APIs, and web applications, with an interest in scalable backend systems, cloud infrastructure, and AI-powered experiences.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jabezhuya.tech-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jabezhuya.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jabezhuya/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jabezhuya.vercel.app-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jabezhuya.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jabezhuya1/)
 [![GitHub](https://img.shields.io/badge/GitHub-Jabez9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jabez9)
 
 📍 Nairobi, Kenya
@@ -97,8 +97,8 @@ A software project focused on shared living and accommodation-related workflows.
 
 I'm open to discussing software engineering, backend and full-stack opportunities, collaborative projects, and interesting technical challenges.
 
-- 🌐 Portfolio: [jabezhuya.tech](https://jabezhuya.tech/)
-- 💼 LinkedIn: [linkedin.com/in/jabezhuya](https://www.linkedin.com/in/jabezhuya/)
+- 🌐 Portfolio: [jabezhuya.vercel.app](https://jabezhuya.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/jabezhuya1](https://www.linkedin.com/in/jabezhuya1/)
 - 🧑‍💻 GitHub: [github.com/Jabez9](https://github.com/Jabez9)
 
 ---
