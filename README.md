@@ -34,7 +34,7 @@ I'm a software engineer interested in designing, building, and improving reliabl
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,python,java,php,go&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,go&perline=4)](https://skillicons.dev)
 
 ### Frontend
 
@@ -42,7 +42,7 @@ I'm a software engineer interested in designing, building, and improving reliabl
 
 ### Backend & Databases
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,laravel,fastapi,postgres,mongodb,redis,firebase&perline=8)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres,mongodb,redis,firebase&perline=7)](https://skillicons.dev)
 
 ### Tools, Cloud & DevOps
 
